@@ -3,9 +3,9 @@ Con el presente ejercicio, se pretende mediante la utilización de técnicas de 
 
 Presentado por:
 
-Diego Merlano Porto
-David Oñate Acosta
-Natalia Puello Acosta
-Camilo Soto Zambrano
+Diego Merlano Porto,
+David Oñate Acosta,
+Natalia Puello Acosta,
+Camilo Soto Zambrano,
 Adriana Zuica Restrepo
 
